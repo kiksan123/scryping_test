@@ -17,7 +17,6 @@ def download():
             time.sleep(1)
         except:
             pass
-        break
 
 if __name__ == "__main__":
     download()
